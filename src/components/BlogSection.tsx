@@ -2,21 +2,21 @@ import BlogCard from "./BlogCard";
 
 const data = [
     {
-        img: '/images/orange-juice.jpg',
+        img: '/food-website/images/orange-juice.jpg',
         title: 'Healthy Food Healthy Life',
         date: 'Aug 27, 2023',
         comment: 8,
     },
 
     {
-        img: '/images/avocado-juice.jpg',
+        img: '/food-website/images/avocado-juice.jpg',
         title: 'Healthy Food Healthy Life',
         date: 'Aug 25, 2023',
         comment: 8,
     },
 
     {
-        img: '/images/apple-juice.jpg',
+        img: '/food-website/images/apple-juice.jpg',
         title: 'Healthy Food Healthy Life',
         date: 'Aug 30, 2023',
         comment: 8,

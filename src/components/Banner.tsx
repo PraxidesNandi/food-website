@@ -5,13 +5,13 @@ const Banner = () => {
                 <div className="overflow-hidden rounded-lg">
                     <img 
                     className='hover:scale-105 transition-transform'
-                    src="/images/ore.jpg" 
+                    src="/food-website/images/ore.jpg" 
                     alt="banner" />
                 </div>
                 <div className="overflow-hidden rounded-lg">
                     <img 
                     className='hover:scale-105 transition-transform'
-                    src="/images/oreo2.jpg" 
+                    src="/food-website/images/oreo2.jpg" 
                     alt="banner" />
                 </div>
 

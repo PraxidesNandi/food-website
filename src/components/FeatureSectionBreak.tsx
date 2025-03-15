@@ -2,10 +2,10 @@ import ProductCard from "../components/ProductCard";
 
 
 const data = [
-    {id:0, img:'/images/tomatoes.jpg', name:'   Tomatoes', price:'$10' },
-    {id:1, img:'/images/omlette.jpg', name:'Omlette', price:'$13' },
-    {id:2, img:'/images/cake.jpg', name:'Cake', price:'$10' },
-    {id:3, img:'/images/muffin.jpg', name:'Muffins', price:'$15' },
+    {id:0, img:'/food-website/images/tomatoes.jpg', name:'   Tomatoes', price:'$10' },
+    {id:1, img:'/food-website/images/omlette.jpg', name:'Omlette', price:'$13' },
+    {id:2, img:'/food-website/images/cake.jpg', name:'Cake', price:'$10' },
+    {id:3, img:'/food-website/images/muffin.jpg', name:'Muffins', price:'$15' },
 ];
 const FeatureSectionBreakfast = () => {
   return (
@@ -31,7 +31,7 @@ const FeatureSectionBreakfast = () => {
 
         <div className="grid sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-5 pt-8 gap-2">
             <div>
-                <img className='w-full h-full object-cover' src="/images/breakfast.jpg" alt="banner" />
+                <img className='w-full h-full object-cover' src="/food-website/images/breakfast.jpg" alt="banner" />
             </div>
 
             {data.map(el => (

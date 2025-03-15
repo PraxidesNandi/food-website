@@ -28,7 +28,7 @@ const Hero = () => {
             </div>
             <div className="relative">
                 <img className='h-full w-full object-cover rounded-lg' 
-                src='/images/hero2 (2).webp' 
+                src='/food-website/images/hero2 (2).webp' 
                 alt ='hero image'/>
                 <div className="absolute max-w-[470px] sm:ml-16 ml-8 top-[50%] -translate-y-[50%] sm:space-y-2">
                     <h2 className="text-2xl sm:text-3xl font-bold">Best Yummy Pizza</h2>
@@ -44,7 +44,7 @@ const Hero = () => {
             </div>
             <div className="relative">
                 <img className='h-full w-full object-cover rounded-lg' 
-                src='/images/hero3.webp' 
+                src='/food-website/images/hero3.webp' 
                 alt ='hero image'/>
                 <div className="absolute max-w-[470px] sm:ml-16 ml-8 top-[50%] -translate-y-[50%] sm:space-y-2">
                     <h2 className="text-2xl sm:text-3xl font-bold">Best Yummy Chips</h2>

@@ -7,7 +7,7 @@ const Hero = () => {
         <div className="grid xl:grid-cols-3 xl:grid-rows-2 gap-8">
             <div className="xl:col-span-2 xl:row-start-1 xl:row-end-[-1] relative">
                 <img className="w-full h-full object-cover rounded-lg" 
-                src="/images/hero.jpg"
+                src="/food-website/images/hero.jpg"
                  alt="hero image" />
 
                  <div className="absolute max-w-[470px] sm:ml-10 ml-4 top-[50%] -translate-y-[50%] sm:space-y-4">
